@@ -15,6 +15,16 @@ I'm Ballah Addam Korom, a student at Brigham Young University-Idaho interested i
 - Proficient in: Python, JavaScript, HTML, CSS, Bash, SQL
 - Skills: Network Configuration (Cisco), Cloud Computing (AWS), Penetration Testing (Nmap, Nikto, Gobuster), Wireless Audits
 
+## Projects
+
+- Network Configuration Project Brigham Young University - Idaho:
+- Worked with a team in configuring a simulated enterprise network using Cisco routers and switches.
+- Implemented network security measures, including firewalls and access control lists.
+
+- AWS Cloud Deployment Personal Project:
+- Deployed a multi-tier web application on AWS, utilizing services such as EC2, S3, and RDS.
+- Automated deployment processes using AWS CloudFormation and shell scripting.
+
 ## Let's Connect!
 
 - Here is my [LinkedIn]https://www.linkedin.com/in/ballah-addam-koroma/ profile
